@@ -1,0 +1,35 @@
+
+
+*****************************************
+This software is licensed under
+GNU GENERAL PUBLIC LICENSE
+GPL V2, June 1991
+You are free to use and re-distribute
+but there is no implied warranty by any
+of the developers of this software or any
+of the software contained within.
+This is a development platflorm for
+Altera Cyclone V SoC FPGA development boards
+*****************************************
+
+************************************************************************************
+ ____  _____ _  ___       ____  _                  _               _ 
+|  _ \| ____/ |/ _ \     / ___|| |_ __ _ ____   __| | ____ ____ __| |
+| | | |  _| | | | | |____\___ \| __/ __ |  _ \ / _  |/ _  |  __/ _  |
+| |_| | |___| | |_| |_____|__) | || (_| | | | | (_| | (_| | | | (_| |
+|____/|_____|_|\___/     |____/ \__\____|_| |_|\____|\____|_|  \__,_|
+                                                                     
+************************************************************************************
+
+***************************************************
+Welcome to the DE10-Std Cyclone V Buildroot Image
+Version: 0.1.10
+Github ID: 
+Build Date: Wed Jun 5 01:36:23 AM UTC 2024
+Build Machine: Rocky-ECS2-buildmachine
+Linux Kernel: rel_socfpga-5.11_21.06.01_pr
+Barebox: 2021.07.0
+Arch: ARMv7-A - Cortex A9
+***************************************************
+
+
